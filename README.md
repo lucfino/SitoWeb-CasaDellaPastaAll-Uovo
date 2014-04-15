@@ -6,4 +6,4 @@ che si occupa delle produzione e vendiata di prodotti fatti in casa come pasta o
 
 Il principale strumento utilizzato è stato il CMS Joomla!, esteso con alcuni moduli e plugin, opportunamente custumizzato nell'aspetto modificando direttamente il codice PHP/CSS a seconda dei casi.
 
-Il sito è online e disponibile al seguente indirizzo: http://casadellapastalluovo.altervista.org/
+Il sito, attualmente in ristrutturaione, è disponibile al seguente indirizzo: http://casadellapastalluovo.altervista.org/
